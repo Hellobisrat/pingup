@@ -46,3 +46,4 @@ export const SideBar = ({sidebarOpen,setSidebarOpen}) => {
       </div>
   )
 }
+
